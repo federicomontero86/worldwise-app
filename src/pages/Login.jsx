@@ -7,8 +7,8 @@ import { useAuth } from "../contexts";
 
 export function Login() {
   // PRE-FILL FOR DEV PURPOSES
-  const [email, setEmail] = useState("jack@example.com");
-  const [password, setPassword] = useState("qwerty");
+  const [email, setEmail] = useState("user@example.com");
+  const [password, setPassword] = useState("user");
   const navigate = useNavigate();
 
   const { login, isAuthenticated } = useAuth();

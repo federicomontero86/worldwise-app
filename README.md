@@ -15,5 +15,8 @@
    ```
 
 3. ```
-   npm run dev
+   Follow the link and login with this credentials:
+   * Email: user@example.com
+   * Password: user
    ```
+   https://worldwiseapplication.netlify.app/
